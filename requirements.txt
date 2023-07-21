@@ -1,5 +1,5 @@
-accelerate==0.18.0
-diffusers==0.17.1
+accelerate==0.21.0
+diffusers==0.18.2
 gradio==3.36.1
 transformers==4.31.0
 hydra-core
